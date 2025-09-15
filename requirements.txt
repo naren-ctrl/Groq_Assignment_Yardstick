@@ -1,0 +1,6 @@
+# Groq API Assignment Requirements
+groq>=0.4.1
+openai>=1.12.0
+pydantic>=2.5.0
+tiktoken>=0.5.2
+typing-extensions>=4.8.0
